@@ -1,4 +1,4 @@
-# This repository includes matlab scripts to conduct PPI analysis (a.k.a. task based functinal conectivity) in Braivoyager QX
+# This repository includes matlab scripts to conduct PPI analysis (a.k.a. task based functinal connectivity) in Braivoyager QX
 
 # Use the "PPI instructions ENG" presentation file.
 
